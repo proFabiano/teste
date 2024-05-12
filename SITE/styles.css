@@ -1,9 +1,0 @@
-.container{
-    display: flex;
-}
-
-.item{
-    width:80%;
-    height:100px;
-    background-color:aqua;
-}
